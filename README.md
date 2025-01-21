@@ -7,7 +7,7 @@ The official implementation of [our paper](https://ieeexplore.ieee.org/abstract/
 :--:|:--:
 ResDNet-B-129     | [weights](https://drive.google.com/file/d/1cQ8HUzm_enlfc0xjPC_0zkS3bTSFJeyW/view?usp=sharing) |  
 
-If you find this repo is useful for your research, Please consider citing our paper:
+If you find this repo is useful for your research or use the pre-trained weights, Please consider citing our paper:
 
 ```
 @ARTICLE{9771050,
